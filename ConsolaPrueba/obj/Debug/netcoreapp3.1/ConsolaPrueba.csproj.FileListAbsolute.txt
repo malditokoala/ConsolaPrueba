@@ -1,0 +1,13 @@
+C:\Users\Edgar\source\repos\ConsolaPrueba\ConsolaPrueba\bin\Debug\netcoreapp3.1\ConsolaPrueba.exe
+C:\Users\Edgar\source\repos\ConsolaPrueba\ConsolaPrueba\bin\Debug\netcoreapp3.1\ConsolaPrueba.deps.json
+C:\Users\Edgar\source\repos\ConsolaPrueba\ConsolaPrueba\bin\Debug\netcoreapp3.1\ConsolaPrueba.runtimeconfig.json
+C:\Users\Edgar\source\repos\ConsolaPrueba\ConsolaPrueba\bin\Debug\netcoreapp3.1\ConsolaPrueba.runtimeconfig.dev.json
+C:\Users\Edgar\source\repos\ConsolaPrueba\ConsolaPrueba\bin\Debug\netcoreapp3.1\ConsolaPrueba.dll
+C:\Users\Edgar\source\repos\ConsolaPrueba\ConsolaPrueba\bin\Debug\netcoreapp3.1\ConsolaPrueba.pdb
+C:\Users\Edgar\source\repos\ConsolaPrueba\ConsolaPrueba\obj\Debug\netcoreapp3.1\ConsolaPrueba.csprojAssemblyReference.cache
+C:\Users\Edgar\source\repos\ConsolaPrueba\ConsolaPrueba\obj\Debug\netcoreapp3.1\ConsolaPrueba.AssemblyInfoInputs.cache
+C:\Users\Edgar\source\repos\ConsolaPrueba\ConsolaPrueba\obj\Debug\netcoreapp3.1\ConsolaPrueba.AssemblyInfo.cs
+C:\Users\Edgar\source\repos\ConsolaPrueba\ConsolaPrueba\obj\Debug\netcoreapp3.1\ConsolaPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\source\repos\ConsolaPrueba\ConsolaPrueba\obj\Debug\netcoreapp3.1\ConsolaPrueba.dll
+C:\Users\Edgar\source\repos\ConsolaPrueba\ConsolaPrueba\obj\Debug\netcoreapp3.1\ConsolaPrueba.pdb
+C:\Users\Edgar\source\repos\ConsolaPrueba\ConsolaPrueba\obj\Debug\netcoreapp3.1\ConsolaPrueba.genruntimeconfig.cache
